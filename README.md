@@ -3,7 +3,7 @@ Setting up PostgreSQL database, storing synthetic data of a healthcare provider 
 Intruction and schema from Data Wizardry (https://github.com/Data-Wizardry/SQL-Webinar-1/blob/main/Create_New_Tables.sql)
 
 ## Overview:
-This repository is documentatin for my own learning experience, including:
+This repository is documentation for my own learning experience, including:
 * Hand-on works with synthetic healthcare dataset (all data in this work is not real, synthetic data created by Synthea)
 * PostgreSQl database setting up
 * Data manipulation with SQL 
